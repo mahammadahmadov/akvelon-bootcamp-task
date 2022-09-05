@@ -1,1 +1,1 @@
-# akvelon-bootcamp-task
+# run view.py
